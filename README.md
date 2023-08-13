@@ -1,6 +1,8 @@
 # Auto-Likes-for-All-Videos-in-YouTube-Playlist
 Auto Likes for All Videos in YouTube Playlist Using Localhost Using Selenium with python
 
+## It will also like all the popular uploaded videos. Just open the 'Popular Uploads' section of the channel, copy the URL, and replace it in the 20th line of the 'like.py' script.
+
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 #Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. The script is used to automatically like a particular YouTube video with multiple accounts
