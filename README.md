@@ -36,6 +36,8 @@ The playlist URL will open and do the auto likes to all of the video in the play
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
+# 👉 Note:Every time YouTube updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools,
+
 👉Note:-
 
 👉If you have the latest version of Selenium, the code may not run
